@@ -1,3 +1,9 @@
+## ScreenShots
+
+![1](https://user-images.githubusercontent.com/96946069/202421054-c88749f0-6fd4-4454-8079-d2d291328e78.jpg)
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sertacgultekinn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sertacgultekin) 
